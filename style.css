@@ -1,0 +1,171 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.header-section{
+   background-image:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)), url(images/donation0.jpg);
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#Heading{
+  font-size:55px;
+    
+    color: white;
+}
+.paragraph{
+    color: white;
+    font-size: large;
+}
+.Header{
+    text-align: center;
+}
+.tag{
+    text-decoration: none;
+    background-color:orangered;
+    padding: 10px 15px;
+    color: white;
+    border-radius:5px ;
+    font-size: xx-large;
+}
+
+/* /section-2 start */
+.section-2{
+    padding: 3rem;
+}
+.heading{
+    font-size: 50px;
+    text-align: center;
+}
+.paragraph-p{
+    color: black;
+    text-align: center;
+}
+.button{
+    align-items: center;
+}
+
+
+.container{
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+ .container div{
+    width: 20%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 25px;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    box-shadow: 10px 10px 40px gray;
+ }  
+
+
+
+ /* /section-3  */
+ .section-3{
+    padding: 3rem; 
+ }
+
+ .row{
+    display: flex;
+    margin-top: 5%;
+    justify-content: space-between;
+ }
+ .donation-col1{
+    padding: 20px 12px;
+    border-radius: 5%;
+    box-sizing: border-box;
+    background: green;
+    flex-basis: 31%;
+    margin-bottom: 5%;
+ }
+ 
+ .donation-col2{
+    padding: 20px 12px;
+    border-radius: 5%;
+    box-sizing: border-box;
+    background:gold;
+    flex-basis: 31%;
+    margin-bottom: 5%;
+ }
+  
+ .donation-col3{
+    padding: 20px 12px;
+    border-radius: 5%;
+    box-sizing: border-box;
+    background:goldenrod;
+    flex-basis: 31%;
+    margin-bottom: 5%;
+ }
+
+
+ /* section-4 start */
+ .section-4{
+    display: flex;
+    width: 50%;
+ }
+ .caption{
+    font-size: 40px;
+ }
+ 
+.half-width img{
+    width: 180%;
+    
+}    
+ 
+ .half-width{
+    width:60%;
+    padding-left: 10%;
+ }
+ 
+
+ /* //section-5 */
+ .email-part{
+    display: flex;
+    justify-content: center;
+    padding: 50px 20px;
+     
+     background-color: burlywood;
+     width: 80%;
+     margin-left: 15%;
+     margin-right: 5%;
+   
+ }
+ .subs{
+    background-color:brown;
+ }
+
+
+ /* footer section */
+ .footer-section{
+  background: black;
+   
+ }
+ .name{
+    color: brown;
+ }
+ .bottom{
+    color: blanchedalmond;
+    align-items: center;
+ }
+    
+
+
+ 
+ 
+ 
+
